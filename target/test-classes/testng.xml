@@ -1,0 +1,18 @@
+
+<suite name="Suite1" verbose="1" >
+    <test name="Test1" >
+        <groups>
+            <run>
+                <include name="a"/>
+            </run>
+        </groups>
+
+<classes>
+    <class name="com.gmail.qa.tests.IntroductionPageTest"/>
+</classes>
+    </test>
+
+    <test name="Regression1">
+
+    </test>
+</suite>

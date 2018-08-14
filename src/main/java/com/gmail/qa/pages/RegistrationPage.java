@@ -1,9 +1,6 @@
 package com.gmail.qa.pages;
 
-public class RegistrationPage {
+import com.gmail.qa.base.TestBase;
 
-	public RegistrationPage() {
-		
-	}
-
+public class RegistrationPage extends TestBase {
 }
